@@ -17,7 +17,7 @@
 <p> Constat de départ : la Chouette Agence n’apparaît qu’en deuxième page de résultats sur Google pour la requête « Entreprise web design Lyon ».
 La fondatrice de l’agence nous sollicite pour effectuer un audit du site, nous laissant la liberté d’apporter les modifications que nous jugerons opportunes, directement dans le code. </p>
 
-<h3> Elle attend trois éléments de notre part : </h3>
+<h3> Trois éléments sont attendus : </h3>
 <ul>
   <li> Une analyse de l’état actuel du SEO du site et son ACCESSIBILITÉ, présentant une liste de recommandations et une sélection de 10 actions à mener en priorité parmi celles-ci </li>
   <li> La mise en pratique de nos recommandations avec la fourniture du code revu et corrigé </li>
